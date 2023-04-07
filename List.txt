@@ -1,0 +1,7 @@
+George Orwell, 1984, 1949, 328, 120
+Mary Shelley, Frankenstein, 1818, 280, 95
+Scott Fitzgerald, The Great Gatsby, 1925, 208, 229
+Agatha Christie, Death on the Nile, 1937, 288, 175
+Aldous Huxley, Brave New World, 1932, 311, 332
+Bram Stoker, Dracula, 1897, 418, 550
+Donna Tartt, The secret history, 1992, 544, 570
